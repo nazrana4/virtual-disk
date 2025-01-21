@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fazlehaq/virtual-disk.git
+   git clone https://github.com/nazrana4/virtual-disk.git
    cd virtual-disk
    ```
 2. Build the executable:
